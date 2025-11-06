@@ -139,31 +139,7 @@ The training pipeline includes:
 4. **Model Selection**: GridSearchCV with Random Forest and XGBoost
 5. **Evaluation**: Accuracy, ROC-AUC, confusion matrix, classification report
 
-## 📈 Future Enhancements
-
-- [ ] Add model explainability (SHAP values)
-- [ ] Implement customer retention recommendations
-- [ ] Add batch prediction capability
-- [ ] Deploy to cloud platform (AWS/Heroku/Azure)
-- [ ] Add authentication and user management
-- [ ] Integrate database for prediction history
-- [ ] Create API endpoints for integration
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👤 Author
-
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset source: Telco Customer Churn Dataset
 - Built as part of machine learning portfolio project
